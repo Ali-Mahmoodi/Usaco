@@ -1,6 +1,6 @@
 # Usaco
 
-Hello Guys . **http://train.usaco.org/usacogate**
+Hello Guys . **[Train Usaco]**(http://train.usaco.org/usacogate)
 this is the address of Usaco getway so !
 as I invited you dead guys here so you know what we are going to do ! 
 so no need more explain xD ! thanks u all .
