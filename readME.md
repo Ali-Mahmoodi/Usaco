@@ -18,9 +18,9 @@ Teachers Task  :
       
 
 nihiL's Task :  // I'm nihiL ; hi !
-- Gathering smart nice people to do such a lovely project for future nice young minds .
- - Showing off to ppl that i did all of these alone ! 
- - Translate Questions .
- - Do other needed tasks .
+- :heavy_check_mark: Gathering smart nice people to do such a lovely project for future nice young minds .
+ - :o: Showing off to friends that i did all of these alone ! 
+ - :heavy_check_mark: Translate Questions .
+ - :heavy_check_mark: Do other needed tasks .
        
       
