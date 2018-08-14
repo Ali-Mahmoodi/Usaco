@@ -9,18 +9,18 @@ we have two groups Teacher , Student
 
 ### ==========================================================
 Students Tasks :
->>   Translate Questions .
+-    Translate Questions .
    
 Teachers Task  : 
-        - Recheck Students translations , and repair it // or tell in a comment where needs to be fixed .
-        - Translate the Turorial pages .
-        - !(valunteer) Translate Questions .
+-  Recheck Students translations , and repair it // or tell in a comment where needs to be fixed .
+-  Translate the Turorial pages .
+-  !(ideal) Translate Questions .
       
 
 *nihiL's Task : // *: who is nihiL ? the guy his email is becomingalgebra@gmail.com ! I'm nihiL . hi !
-        -Gathering smart nice people to do such a lovely project for future nice young minds .
-        -Showing off to ppl that i did all of these alone ! 
-        -Translate Questions .
-        -do extra needed tasks .
+- Gathering smart nice people to do such a lovely project for future nice young minds .
+ - Showing off to ppl that i did all of these alone ! 
+ - Translate Questions .
+ - do extra needed tasks .
        
       
