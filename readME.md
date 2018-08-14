@@ -8,10 +8,10 @@ so no need more explain xD ! thanks u all .
 we have two groups Teacher , Student 
 
 ### ==========================================================
-Students Tasks :
--    Translate Questions . :+1:
+Students Tasks :  :boy: :girl: :computer:
+-  :large_blue_diamond:  Translate Questions . :+1:
    
-Teachers Task  : 
+Teachers Task  : :older_man: 
 -  :eight_spoked_asterisk: Recheck Students translations , and repair it // or tell in a comment where needs to be fixed .
 -  :eight_spoked_asterisk: Translate the Turorial pages .
 -  :eight_spoked_asterisk: !(ideal) Translate Questions .
