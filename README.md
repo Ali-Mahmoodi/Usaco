@@ -1,3 +1,4 @@
+/*
 # Usaco
 Translating Train.Usaco to Persian
 
@@ -21,3 +22,4 @@ Teachers Task  :
       -Showing off to ppl that i did all of these alone ! 
       -Translate Questions .
       -do extra needed tasks .
+*/
