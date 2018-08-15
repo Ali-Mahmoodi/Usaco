@@ -7,7 +7,7 @@ so no need more explain xD ! thanks u all .
 
 we have two groups Teacher , Student 
 
-### ==========================================================
+#### ==========================================================
 Students Tasks :  :boy: :girl: :computer:
 -  :large_blue_diamond:  Translate Questions . :+1:
    
@@ -23,5 +23,12 @@ nihiL's Task :  // I'm nihiL ; hi !
  - :heavy_check_mark: Translate Questions .
  - :heavy_check_mark: Do other needed tasks .
      
- ### ==========================================================
+ #### ==========================================================
       
+### How To Join Team ?
+**[Send Me An Email](mailto:BecomingAlgebra@gmail.com)** 
+my email address:
+## BecomingAlgebra@gmail.com 
+// you should have google account to be added , if you dont ; you can email me , I will guide you . thx .
+
+with Respect nihiL .
