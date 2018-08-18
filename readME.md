@@ -21,7 +21,6 @@ nihiL's Task :  // I'm nihiL ; hi !
 - :heavy_check_mark: Gathering smart nice people to do such a lovely project for future nice young minds .
  - :x: Showing off to friends that i did all of these alone ! 
  - :heavy_check_mark: Translate Questions .
- - :heavy_check_mark: Do other needed tasks .
      
  #### ==========================================================
       
