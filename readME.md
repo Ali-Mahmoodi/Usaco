@@ -29,6 +29,6 @@ nihiL's Task :  // I'm nihiL ; hi !
 **[Send Me An Email](mailto:BecomingAlgebra@gmail.com)** 
 my email address:
 ## BecomingAlgebra@gmail.com 
-// you should have google account to be added , if you dont ; you can email me , I will guide you . thx .
+// write your name in pagedown of the translations for Credit for e.x { Translated by : Mohammad Nima RastiZadeh } .
 
 with Respect nihiL .
