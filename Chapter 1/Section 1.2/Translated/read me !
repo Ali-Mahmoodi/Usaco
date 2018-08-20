@@ -1,0 +1,25 @@
+hi , translated questions will be in this folder ,
+the last and accepted translated file is named with .F
+
+
+for example question name is milk2 , 
+the files will be 
+
+milk2.1
+milk2.2
+milk2.3
+...
+milk2.3.F // this is final now . but if it will need to edit again the down one is your final file .
+milk2.3.F2 
+
+question name is start .
+translated will will name 
+
+start.1
+start.2
+...
+start.2.F
+start 2.F2
+srart 2.F3 // now this is final file that we read for turining to html .
+
+gl.
