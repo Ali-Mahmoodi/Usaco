@@ -26,7 +26,7 @@ nihiL's Task :  // I'm nihiL ; hi !
       
 ### How To Join Team ?
 **[Send Me An Email](mailto:BecomingAlgebra@gmail.com)** 
-my email address:
+to my email address:
 ## BecomingAlgebra@gmail.com 
 // write your name in pagedown of the translations for Credit for e.x { Translated by : Mohammad Nima RastiZadeh } .
 
