@@ -41,7 +41,7 @@ with Respect nihiL .
 :full_moon::new_moon::new_moon::new_moon::full_moon::new_moon::new_moon::new_moon::full_moon::full_moon::new_moon::new_moon::new_moon::full_moon::new_moon::new_moon::new_moon::full_moon:
            
 
-Students : :eight_spoked_asterisk::eight_pointed_black_star:[Matin Rad](prettysara963@gmail.com) , [Goudarz Jafari](goudarz.jafari@gmail.com) ,
+Students : :eight_spoked_asterisk::eight_pointed_black_star:[Matin Rad](prettysara963@gmail.com) ,
            [Mohammad Ali Mahmoodi](becomingAlgebra@gmail.com) :eight_spoked_asterisk::eight_pointed_black_star: 
   
 :full_moon::new_moon::new_moon::new_moon::full_moon::new_moon::new_moon::new_moon::full_moon:
