@@ -14,7 +14,6 @@ Students Tasks :  :boy: :girl: :computer:
 Teachers Task  : :older_man: 
 -  :eight_spoked_asterisk: Recheck Students translations , and repair it // or tell in a comment where needs to be fixed .
 -  :eight_spoked_asterisk: Translate the Turorial pages .
--  :eight_spoked_asterisk: (ideal!) Translate Questions .
       
 
 nihiL's Task :  // I'm nihiL ; hi !
