@@ -8,9 +8,9 @@ This Project is going to translate **Usaco.Train** , **Exercises and Toturials**
 
 ## Howt it works 
      for a regular clear cooperation 
-     we have two groups "Teacher" , "Student" 
-     "Student" translate Questions , and
-     "Teacher" rechecks translations of the students and translate toturials .
+     we have two groups "Student" and "Teacher"  
+     -"Student" translate Questions , and
+     -"Teacher" rechecks translations of the students and translate toturials .
      there is 100 Question and 23 Toturial text in Usaco.Train Getway .
      
      if you wanted to join the team , you can send me an email .
