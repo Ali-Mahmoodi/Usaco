@@ -17,13 +17,21 @@ This Project is going to translate **Usaco.Train** , **Exercises and Toturials**
      
      If you are a student of Shiraz University its easier for me to make a contact with you ! 
      
-     What we expect a student : 
-       Can be able to translate english texts
-       Have a small known of a programming language (C/C++/Java/Python) . 
+     What we expect a Student : 
+       Can be able to translate english texts to fluent Persian .
+       Have a brief known of a programming language (C/C++/Java/Python) and Programming Contests .
+     
+     What we expect a Teacher :
+       More than 22 Years old .
+       Can be able to read and translate english easily .
+       Have an exprience in at least one of the programming contests ( IOI , ACM , CodeJam , Facebook Cup or...)
+       Have a good known of Graph Theory , Combinatorics , Number Theory (less than others !) , 
+       and anything has come in this link ! 
+       [ACM Titles](https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/)** 
  
      we need someone can work with html too .(not so profestional !)
 
-     your name will be at the end of your translations for Credit .  for e.x { Translated by : Mohammad Nima RastiZadeh }
+     your name will be at the end of your translations for Credit .for e.x {Translated by : Nima RastiZadeh}
 
 
 #### ==========================================================
