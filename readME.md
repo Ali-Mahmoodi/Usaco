@@ -1,11 +1,20 @@
 # Usaco
 
-Hello Guys :smiley: . **[Train Usaco](http://train.usaco.org/usacogate)**
-this is the address of Usaco getway so !
-as I invited you dear guys here so you know what we are going to do ! 
-so no need more explain xD ! thanks u all .
+Hello Guys :smiley: .
+\
+This Project is going to translate **Usaco.Train** , **Exercises and Toturials** from English to Persian  
+**[This is the address of Usaco getway](http://train.usaco.org/usacogate)**
 
-we have two groups Teacher , Student 
+
+## Howt it works 
+     for a regular clear cooperation 
+     we have two groups "Teacher" , "Student" 
+     "Student" translate Questions , and
+     "Teacher" rechecks translations of the students and translate toturials .
+     there is 100 Question and 23 Toturial text in Usaco.Train Getway .
+     
+     if you wanted to join the team , you can send me an email .
+     if you are a student of Shiraz University its easier to make a contact for me ! 
 
 #### ==========================================================
 Students Tasks :  :boy: :girl: :computer:
