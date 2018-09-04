@@ -36,9 +36,6 @@ nihiL's Task :  // I'm nihiL ; hi !
 **[Send Me An Email](mailto:BecomingAlgebra@gmail.com)** 
 to my email address:
 ## BecomingAlgebra@gmail.com 
-// write your name in pagedown of the translations for Credit for e.x { Translated by : Mohammad Nima RastiZadeh } .
-
-with Respect nihiL .
 
 :full_moon::new_moon::new_moon::new_moon::full_moon::new_moon::new_moon::new_moon::full_moon:
 
@@ -53,3 +50,5 @@ Students : :eight_spoked_asterisk::eight_pointed_black_star:[Matin Rad](prettysa
            [Mohammad Ali Mahmoodi](becomingAlgebra@gmail.com) :eight_spoked_asterisk::eight_pointed_black_star: 
   
 :full_moon::new_moon::new_moon::new_moon::full_moon::new_moon::new_moon::new_moon::full_moon:
+
+with Respect nihiL .
