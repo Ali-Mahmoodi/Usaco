@@ -7,14 +7,24 @@ This Project is going to translate **Usaco.Train** , **Exercises and Toturials**
 
 
 ## Howt it works 
-     for a regular clear cooperation 
-     we have two groups "Student" and "Teacher"  
-     -"Student" translate Questions , and
+     For a regular clear cooperation , we have two groups "Student" and "Teacher"  
+     -"Student" translate Questions
      -"Teacher" rechecks translations of the students and translate toturials .
-     there is 100 Question and 23 Toturial text in Usaco.Train Getway .
+
+     There is 100 Question and 23 Toturial text in Usaco.Train Getway .
      
-     if you wanted to join the team , you can send me an email .
-     if you are a student of Shiraz University its easier to make a contact for me ! 
+     If you wanted to join the team , you can send me an email .
+     
+     If you are a student of Shiraz University its easier for me to make a contact with you ! 
+     
+     What we expect a student : 
+       Can be able to translate english texts
+       Have a small known of a programming language (C/C++/Java/Python) . 
+ 
+     we need someone can work with html too .(not so profestional !)
+
+     your name will be at the end of your translations for Credit .  for e.x { Translated by : Mohammad Nima RastiZadeh }
+
 
 #### ==========================================================
 Students Tasks :  :boy: :girl: :computer:
