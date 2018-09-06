@@ -6,34 +6,33 @@ This Project is going to translate **Usaco.Train** , **Exercises and Toturials**
 **[This is the address of Usaco getway](http://train.usaco.org/usacogate)**
 
 
-## Howt it works 
-     For a regular clear cooperation , we have two groups "Student" and "Teacher"  
-     -"Student" translate Questions
-     -"Teacher" rechecks translations of the students and translate toturials .
+## How it works 
+     For a regular and clear cooperation , we have two groups ; "Students" and "Teachers"  
+     -"Students" translate Questions
+     -"Teachers" check translations of the students and also translate toturials .
 
-     There is 100 Question and 23 Toturial text in Usaco.Train Getway .
+      There are 100 Questions and 23 Tutorial-texts in Usaco.Train getway .
 
-     What we expect a Student : 
-       Can be able to translate english texts to fluent Persian .
-       Have a brief known of a programming language (C/C++/Java/Python) and Programming Contests .
+     What we expect from a Student:
+     - Should be able to translate English texts to fluent Persian (Farsi).
+     - Have a basic knowledge of at least one programming language(C/C++/Java/Python) and Programming Contests.
      
-     What we expect a Teacher :
-       At least more than +24 Years old .
-       Can be able to read and translate english easily .
-       Have an exprience in at least one of the programming contests ( IOI , ACM , CodeJam , Facebook Cup or...)
-       Have a good known of Graph Theory , Combinatorics , Number Theory (less than others !) , 
-       and most titles has come in this link ! 
+    What we expect from a Teacher :
+     - At least 24 years old .
+     - Should be able to read and translate English easily.
+     - Have experience in at least one of the programming contests ( IOI , ACM , CodeJam , Facebook Cup or...)
+     - Have a good knowledge in Graph Theory, Combinatorics, Number Theory (less than others!),  and most titles in this link! 
        [ACM Titles] https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/
        
-     If you wanted to join the team , you can send me an email .
-    
+     If you want to join the team, you can send me an email.
+ 
      If you are a student of Shiraz University its easier for me to make a contact with you ! 
  
-     We need someone can work with html too .(not so profestional !)
+     We need someone with basic html skill as well.
 
-     Your name will be at the end of your translations for Credit .for e.x {Translated by : Nima RastiZadeh}
+     Your name will be at the end of your translations for Credit , e.g. {Translated by : Nima RastiZadeh}
      
-     ~$ This is a non-profit and non-governmental-organisation Project $~
+    ~$ This is a non-profit and non-governmental-organisation Project $~
 
 
 #### ==========================================================
