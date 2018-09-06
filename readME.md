@@ -21,8 +21,9 @@ This Project is going to translate **Usaco.Train** , **Exercises and Toturials**
      - At least 24 years old .
      - Should be able to read and translate English easily.
      - Have experience in at least one of the programming contests ( IOI , ACM , CodeJam , Facebook Cup or...)
-     - Have a good knowledge in Graph Theory, Combinatorics, Number Theory (less than others!),  and most titles in this link! 
-       [ACM Titles] https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/
+     - Have a good knowledge in Graph Theory, Combinatorics, Number Theory (less than others!) ,
+       and most titles in this link! [ACM Titles] https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/
+       
        
      If you want to join the team, you can send me an email.
  
